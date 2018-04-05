@@ -1,0 +1,8 @@
+#openITCOCKPIT Host Configuration
+host: monitoring.example.lan
+
+#openITCOCKPIT username
+user: username@example.lan
+
+#openITCOCKPIT Password
+password: 1337passw0rd

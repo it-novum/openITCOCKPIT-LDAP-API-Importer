@@ -1,0 +1,22 @@
+{
+    "name": "it-novum/openITCOCKPIT/ldap_api",
+    "description": "API example to create LDAP users in openITCOCKPIT",
+    "version": "1.0.0",
+    "homepage": "https://openitcockpit.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "it-novum GmbH",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/yaml": "^4.0"
+    }
+}
